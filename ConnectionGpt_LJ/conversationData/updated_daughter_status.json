@@ -1,0 +1,14 @@
+{
+    "daughter_status": {
+        "stress": "normal",
+        "fatigue": "refreshing",
+        "E": 25,
+        "I": 75,
+        "S": 60,
+        "N": 40,
+        "T": 20,
+        "F": 80,
+        "J": 85,
+        "P": 15
+    }
+}

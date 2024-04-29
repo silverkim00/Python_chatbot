@@ -1,0 +1,33 @@
+{
+    "daughter": {
+        "name": "더조은",
+        "age": "20",
+        "sex": "female",
+        "mbti": "ISFJ",
+        "hp": 70,
+        "mp": 80,
+        "mood": "happiness",
+        "stress": "low",
+        "fatigue": "energetic",
+        "E": 50,
+        "I": 50,
+        "S": 50,
+        "N": 50,
+        "T": 50,
+        "F": 50,
+        "J": 50,
+        "P": 50
+    },
+    "mood": "happy",
+    "moral_evaluation": 92,
+    "stress": "68%",
+    "fatigue": "97%",
+    "E": "76%",
+    "I": "24%",
+    "S": "85%",
+    "N": "15%",
+    "T": "94%",
+    "F": "6%",
+    "J": "28%",
+    "P": "72%"
+}
